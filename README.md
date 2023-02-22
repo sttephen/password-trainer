@@ -1,6 +1,6 @@
 # Password Trainer
 
-Password Trainer is a GUI to help with learning complex passwords to improve personal security. 
+Password Trainer is a simple GUI to help with learning complex passwords to improve personal security. 
 
 The interface will ask for your initial password, followed by instructions to type another character each time to improve memory.
 
